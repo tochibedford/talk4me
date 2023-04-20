@@ -4,6 +4,3 @@
 [submodule "talk4me-func"]
 	path = talk4me-func
 	url = https://github.com/tochibedford/talk4me-func
-[submodule "talk2me_frontend_next"]
-	path = talk2me_frontend_next
-	url = https://github.com/tochibedford/talk2me_frontend_next
