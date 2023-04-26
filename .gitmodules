@@ -1,7 +1,7 @@
-[submodule "talk2me_backend"]
+[submodule "app_backend"]
 	path = talk2me_backend
 	url = https://github.com/tochibedford/talk2me_backend.git
-[submodule "talk4me-func"]
+[submodule "cloud_functions"]
 	path = talk4me-func
 	url = https://github.com/tochibedford/talk4me-func
 [submodule "app_frontend"]
