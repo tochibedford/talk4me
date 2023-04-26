@@ -2,7 +2,7 @@
 
 This Repo contains all the submodules used to build [Talk4Me](https://talk4me.tochibedford.com)
 
-![App Image](./talk2me_frontend_next/public/talk4me.png)
+![App Image](https://talk4me.tochibedford.com/talk4me.png)
 
 ## Frontend
 
